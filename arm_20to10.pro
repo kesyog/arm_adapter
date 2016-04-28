@@ -1,4 +1,4 @@
-update=10/28/2014 8:19:02 AM
+update=4/26/2016 5:33:44 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -39,14 +39,16 @@ LibName15=pga_sockets
 LibName16=valves
 LibName17=kicadlib/kicadlib
 LibDir=
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
-NetFmtName=
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -79,10 +81,3 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=kicadlib/kicadlib
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
-[general]
-version=1

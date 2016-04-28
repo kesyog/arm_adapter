@@ -1,3 +1,6 @@
 [submodule "kicadlib"]
 	path = kicadlib
 	url = https://github.com/noahp/kicadlib.git
+[submodule "kes_kicadlib"]
+	path = kes_kicadlib
+	url = https://github.com/kesyog/kes_kicadlib.git
