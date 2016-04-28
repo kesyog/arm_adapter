@@ -1,0 +1,15 @@
+#Designator,X-Loc,Y-Loc,Rotation,Side,Type,X-Size,Y-Size,Value,Footprint,Populate,MPN,,,
+C1,,,,top,SMT,60,30,1uF 10% 25V,C0603,1,MF-CAP-0603-1uF,,,
+C2,,,,top,SMT,60,30,1uF 10% 25V,C0603,1,MF-CAP-0603-1uF,,,
+D1,,,,top,SMT,60,30,Red LED,LED0603,1,MF-LED-0603-RED,,,
+D2,,,,top,SMT,60,30,Green LED,LED0603,1,MF-LED-0603-GREEN,,,
+J2,,,,top,SMT,,,"20-pin (2x10) 0.05"" SMT header",,1,SAM8794-ND (Digikey),,,20021121-00020C4LF
+J4,,,,top,SMT,,,"10-pin (2x5) 0.05"" SMT header (FTSH-105-01-F-DV)",,1,SAM8795-ND (Digikey),,,M50-3600542
+R1,,,,top,SMT,60,30,1kohm,R0603,1,MF-RES-0603-1K,,,
+R2,,,,top,SMT,60,30,470ohm,R0603,1,MF-RES-0603-470,,,
+U1,,,,top,SMT,,,"3.3V, 300mA LDO",SOT-23-5,1,MF-REG-SOT235-3.3V-300mA,,,
+J1,,,,top,PTH,,,"20-pin (2x10) Right-angle connector 0.1"" pitch",,1,S9205-ND (Digikey),,,
+J3,,,,top,PTH,,,"10-pin (2x5) 0.1"" unshrouded header",,1,e.g. 609-3243-ND (Digikey),,,826656-5
+J5,,,,top,PTH,,,"10-pin (2x5) 0.1"" unshrouded header",,1,e.g. 609-3243-ND (Digikey),,,826656-5
+J6,,,,top,PTH,,,,,1,MF-CON-2.54mm-2x3,,,
+SW1,,,,top,PTH,,,Slide Switch: C&K SS-12D07-VG 4 NS GA PA,custom,1,CKN10397-ND (Digikey),,,OS102011MA1QS1
