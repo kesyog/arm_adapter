@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kes_custom)(type KiCad)(uri "$(KIPRJMOD)\\kes_kicadlib\\kes_custom.pretty")(options "")(descr ""))
+  (lib (name kicadlib)(type KiCad)(uri "$(KIPRJMOD)\\kicadlib\\kicadlib.pretty")(options "")(descr ""))
+)
