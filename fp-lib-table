@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name kicadlib)(type KiCad)(uri "$(KIPRJMOD)/kicadlib/kicadlib.pretty")(options "")(descr "Noah's kicadlib"))
-)
